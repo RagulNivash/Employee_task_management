@@ -1,0 +1,8 @@
+Folder                               |                    Description
+
+2. Employee_Task_Management.py                        Contains the project code 
+3. 40169564_miniporject_report.pdf                    It is the report      
+4. employee.csv                                       contains the employee names
+5. notifications.csv                                  contains the notification of newly assigned task and cancellation task
+6. tasks.csv                                          contains task of the employees
+7. Untitled1.html                                          contains entire code in html file, incase .py is not opening
